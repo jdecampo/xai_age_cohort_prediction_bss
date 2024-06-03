@@ -15,6 +15,8 @@ Data Sources:
 3. [Meteorological daily data for Madrid.](https://datos.madrid.es/portal/site/egob)
 4. [Working calendar for Autonomous-Community of Madrid.](https://datos.madrid.es/portal/site/egob)
 
+- Snippets of code, derived from existing solutions, have been annotated and included as inline comments.
+
 Project Organization
 ------------
 
