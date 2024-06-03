@@ -42,6 +42,10 @@ Project Organization
             │                 predictions.
             └── baseline_models_2019_age-group_3_4_5.ipynb
 
+## Methodology Pipeline:
+
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/methodology_age-cohort.png)
+
 ## EDA
 
 - Map of Madrid with BiciMAD trips generated per station for Age Cohort 4 (27:40):
@@ -51,10 +55,6 @@ Project Organization
 - Plot the distribution for each category present in the dataset:
   
 ![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/user_age_group_distribution_3_4_5.png)
-
-## Methodology Pipeline:
-
-![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/methodology_age-cohort.png)
 
 ## Model Performance:
 
