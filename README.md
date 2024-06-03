@@ -44,11 +44,32 @@ Project Organization
 
 ## EDA
 
+- Map of Madrid with BiciMAD trips generated per station for Age Cohort 4 (27:40):
+  
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/map_bicimad_age_4.png)
+
+- Plot the distribution for each category present in the dataset:
+  
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/user_age_group_distribution_3_4_5.png)
+
 ## Methodology Pipeline:
+
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/methodology_age-cohort.png)
 
 ## Model Performance:
 
+The Tuned Random Forest Classifier without SMOTE obtained the best F1-score 60.98%
+
 ## XAI: 
+
+- Tuned Random Forest Classifier explainability with SHAP Feature importance:
+
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/tune_rfc_feat_importance_bar.png)
+
+- Performance Degradation for Tuned Random Forest Classifier with(out) SMOTE model explanation:
+
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/performance_degra_tune_rfc.png)
+  
 
 --------
 
