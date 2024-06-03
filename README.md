@@ -5,6 +5,7 @@
 
 ## Dataset Description
 
+![image](https://github.com/jdecampo/xai_age_cohort_prediction_bss/blob/main/reports/assets/model_selected_features.png)
 
 
 ## Project Reference(s):
