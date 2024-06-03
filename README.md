@@ -1,4 +1,4 @@
-# XAI BiciMAD age-cohort prediction - Project Overview
+# XAI BiciMAD age-cohort prediction | Project Overview
 
 ## Dataset Description
 
