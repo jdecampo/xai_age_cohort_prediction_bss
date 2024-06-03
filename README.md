@@ -1,4 +1,8 @@
-# xai_age_cohort_prediction_bss
+# XAI BiciMAD age-cohort prediction - Project Overview
+
+## Dataset Description
+
+## Project Reference(s):
 
 Project Organization
 ------------
@@ -25,7 +29,13 @@ Project Organization
             │                 predictions.
             └── baseline_models_2019_age-group_3_4_5.ipynb
 
+## EDA
 
+## Methodology Pipeline:
+
+## Model Performance:
+
+## XAI: 
 
 --------
 
