@@ -1,5 +1,5 @@
 # XAI BiciMAD age-cohort prediction | Project Overview
-- This tool aims to provide an estimate age range from BiciMAD users based on trip genaration data while disclosing the key determinants, as this information is no longer available since July 2021.
+- This tool is designed to estimate the age range of BiciMAD users based on trip generation data, while also revealing the key determinants. This functionality is particularly valuable as this specific information has not been available since July 2021.
 - The target audience for this tool are micromobility service companies and relevant institutions for refining their promotional strategies for Bike Sharing Systems in Madrid.
 - Due to the significant data imbalance across categories, it was evaluated the potential advantages of using oversampling techniques like SMOTE. This consideration was made with an awareness of the possible impact on model explainability variance.
 
