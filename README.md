@@ -58,7 +58,7 @@ Project Organization
 
 ## Model Performance:
 
-The Tuned Random Forest Classifier without SMOTE obtained the best F1-score 60.98%
+The Tuned Random Forest Classifier without SMOTE obtained the best Macro F1-score 60.98%
 
 ## XAI: 
 
